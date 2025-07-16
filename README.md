@@ -21,6 +21,8 @@ Missing values: Any gaps or bad-quality data?
 
 Granularity: Daily sales? Transaction level? Customer level?
 
+[Go to How to Explore Raw Data Page](ExploreRawData.md)
+
 ##  3. Ask Key Questions (Turn into Problem Statements)
 Once you understand the data, ask analytical or business-driven questions like:
 Possible Question	Can become a Problem Statement
@@ -28,6 +30,8 @@ What are the top-selling products?	"Identify which products drive the most sales
 When is the shop busiest?	"Determine peak hours/days to optimize staffing."
 Are sales declining in any category?	"Analyze category-wise performance over time."
 Do returning customers buy more?	"Evaluate customer loyalty and its impact on revenue."
+
+[Go to Questions to Ask while Analysis ](QuestionstoAsk.md)
 
 ##  4. Sample Problem Statements for Coffee Shop Data
 Here are examples of well-formed problem statements you might derive:
@@ -54,6 +58,8 @@ Plot time-series charts for daily revenue
 Segment customers by frequency of visits
 
 This will guide you to form a relevant problem statement based on what you discover.
+
+[Go to Questions to Ask while Analysis ](HowtoCreateProblemStatements.md)
 
 ✅ Tip:
 Write 2–3 hypothetical business goals based on your data → then validate them by doing initial analysis. The most valuable insights will naturally reveal the main problem(s) the coffee shop is facing.
