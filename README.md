@@ -8,7 +8,7 @@ What does a coffee shop care about?
 Who are the stakeholders?
 (e.g., owner, manager, marketing team)
 
-[Go to Data Cleaning Page](Understand.md)
+[Go to Understanding Buisness First in Details  Page](UnderstandtheBUsinessFirstDetails.md)
 
 ##   2. Explore the Raw Data
   Look for:
