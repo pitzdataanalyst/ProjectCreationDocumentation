@@ -64,3 +64,41 @@ This will guide you to form a relevant problem statement based on what you disco
 ✅ Tip:
 Write 2–3 hypothetical business goals based on your data → then validate them by doing initial analysis. The most valuable insights will naturally reveal the main problem(s) the coffee shop is facing.
 
+##  5. How to Write Project Overview 
+### Project Title
+
+Clear and descriptive
+
+#### Example: Coffee Shop Sales Analysis using Excel, SQL, and Power BI
+
+### Overview (2–3 lines)
+
+What the project is about and why it was done
+
+#### Example: Analyzed sales data to help a coffee shop improve performance
+
+### Problem Statement
+
+What business issue are you solving?
+
+#### Example: Find top products, peak hours, and customer behavior
+
+### Objectives
+
+List 3–4 key goals
+
+#### Example: Identify top-selling items, discover peak times, analyze trends
+
+### Tools Used
+
+Mention tools/software (Excel, SQL, Power BI, etc.)
+
+### Key Insights
+
+2–3 important findings from your analysis
+
+### Conclusion
+
+What you learned or how the project helped solve the problem
+
+[Go to Questions to Ask while Analysis ](HowtoWriteProjectOverview.md)
