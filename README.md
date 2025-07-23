@@ -102,3 +102,7 @@ Mention tools/software (Excel, SQL, Power BI, etc.)
 What you learned or how the project helped solve the problem
 
 [Go to Questions to Ask while Analysis ](FileStructure.md)
+
+#
+
+Follow me on Linekdin for more updates: www.linkedin.com/in/priyankataklikar
